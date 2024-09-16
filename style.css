@@ -1,0 +1,14 @@
+.container {
+    width: 480px;
+    height: 480px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+
+.square {
+    background-color: lightblue;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
